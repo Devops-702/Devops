@@ -4,7 +4,7 @@
 </head>
 <body>
 	<h1>Hiii devops team</h1>
-	<h2>Welcome to Ojas</h2>
+	<h2>Welcome to Ojas innov tech </h2>
 	
 	<p>
 		It is now
